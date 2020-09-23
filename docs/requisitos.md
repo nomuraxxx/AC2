@@ -1,2 +1,2 @@
 # Requisitos
-*gerar ,.....
+*gerar ,....lalal.
